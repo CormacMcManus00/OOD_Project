@@ -1,0 +1,13 @@
+// Add new processors in the format:
+// Manufacturer,Platform,Model,Architecture,Clock Speed,Cores,Threads,Virtualoization,L1 Cache,L2 Cache,L3 Cache
+//
+Qualcomm,Mobile,SnapDragon 665,x64,2.0Ghz,4,4,N/A,N/A,N/A,1MB
+AMD,Mobile,Ryzen 5 2500U,x64,2.00Ghz,4,8,AMD-V,384KB,2MB,4MB
+Intel,Mobile,Pentium Gold 6405U,x64,2.4Ghz,2,2,VT-I,256KB,1MB,2MB
+Intel,Server,Xeon E5-1620,x64,3.6Ghz,4,8,VT-I,32KB,256KB,10MB
+AMD,Desktop,Ryzen 3 3100,x64,3.6Ghz,4,8,AMD-V,256KB,2MB,16MB
+AMD,Server,Threadripper 3990X,x64,4.3Ghz,64,128,AMD-V,4MB,32MB,256MB
+Intel,Desktop,Core i9-9900K,x64,3.6Ghz,8,16,VT-I,16MB smart cache,16MB smart cache,16MB smart cache
+Qualcomm,Mobile,SnapDragon 665,x64,2.0Ghz,4,4,N/A,N/A,N/A,1MB
+Intel,Desktop,Core i7-7700K,x64,3.6Ghz,8,16,VT-I,16MB smart cache,16MB smart cache,16MB smart cache
+Intel,Mobile,Atom N270,x86,1.6Ghz,1,2,N/A,56KB,512KB,N/A
